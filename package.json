@@ -6,9 +6,13 @@
   "default": "dist/index.html",
   "main": "dist/index.html",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --mode development",
+    "serve:prod": "vite --mode production",
+    "serve:dev": "vite --mode development",
+    "build:dev": "vite build --mode development",
     "build": "vite build",
-    "preview": "vite preview"
+    "start": "vite",
+    "build:prod": "vite build --mode production"
   },
   "dependencies": {
     "vue": "^3.4.21",
