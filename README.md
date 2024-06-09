@@ -60,6 +60,7 @@ In the ever-evolving DeFi landscape, yield can be unpredictable. FIVA leverages 
 The increasing number of active wallets on the TON blockchain, as shown in the graph, signifies a rapidly growing user base in the DeFi space. This growth indicates more users engaging in DeFi activities, which creates a promising environment for launching innovative products like FIVA. With more active users and no direct competition on the TON blockchain, FIVA is well-positioned to capture significant market share and drive substantial revenue.
 
 ![Zrzut ekranu 2024-06-09 133344.png](https://cdn.dorahacks.io/static/files/18ffcc915769fe545484c844d05856e3.png)
+
 *Source:https://www.tonstat.com/*
 
 ## How FIVA Provides Fixed Yield
